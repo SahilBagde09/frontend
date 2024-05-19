@@ -1,0 +1,64 @@
+.Home {
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+  }
+  
+  
+  .container1 {
+    margin-top: 20px; 
+    padding-top: 30px;
+    font-family: cursive;
+    font-weight: 66px;
+  }
+  
+  
+  .container2 {
+  
+    margin-top: 20px; 
+    margin-bottom: 20px;
+  }
+  
+  .container3 {
+    margin-top: 20px; 
+    margin-bottom: 20px;
+  }
+  .container4 {
+    margin-top: 20px; 
+  
+  }
+  
+  
+  
+  .containerpara {
+   
+    text-align: center;
+    margin-top: 20px auto ;
+    font-size: 50px;
+    
+    font-weight: bold;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .containerpara2 {
+   
+    text-align: center;
+    margin-top: 20px auto ;
+    font-size: 50px;
+    
+    font-weight: bold;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .card-hover {
+    transition: transform 0.3s ease; 
+  }
+  
+  .card-hover:hover {
+    transform: scale(1.05); 
+  }
+  
+  .footer .container {
+    text-align: center;
+  }
